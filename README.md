@@ -13,7 +13,7 @@ This application allows a user to view, create and track daily workouts, as well
 
 ## Application Image
 
-![Screenshot of app]()
+![Screenshot of app](https://github.com/tiffcrockett/fitness/blob/main/fitnessscrn.png?)
 
 
 ## Deployed Link
